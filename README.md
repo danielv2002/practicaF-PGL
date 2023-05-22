@@ -1,2 +1,5 @@
 # practicaF-PGL
-an api rest with a code lexer to verificate http requests with console input
+an api rest simulation with a code lexer to verificate http requests with console input
+specifications:
+made by Daniel Villegas Del Corral
+IDE: intellijIDEA
